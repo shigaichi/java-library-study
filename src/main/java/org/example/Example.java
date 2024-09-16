@@ -4,6 +4,13 @@ package org.example;
  * 文字列を返す学習用クラス
  */
 public class Example {
+
+    /**
+     * コンストラクタ
+     */
+    Example(){
+
+    }
     /**
      * 文字列を返す
      *
