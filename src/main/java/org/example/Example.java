@@ -8,9 +8,9 @@ public class Example {
     /**
      * コンストラクタ
      */
-    Example(){
-
+    public Example() {
     }
+
     /**
      * 文字列を返す
      *
